@@ -7,9 +7,7 @@ Real Estate Valuation is a project aimed at predicting the value of properties u
 - Data preprocessing and feature engineering
 - Model training using different algorithms
 - Model evaluation and comparison
-- Hyperparameter tuning
-- Visualization of predictions and model performance
-
+  
 ## Model
 This project uses multiple machine learning models to predict real estate values, including:
 - `LinearRegression`: Linear Regression
